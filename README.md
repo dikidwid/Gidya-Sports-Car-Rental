@@ -1,4 +1,5 @@
 # Gidya-Sports-Car-Rental
+Gidya Sports Car Rental is an innovative project aimed at revolutionizing the car rental industry, providing a specialized platform catering to sports car enthusiasts. Our project encompasses two main components: the user website and the admin website.
 
 On the user website, we have focused on creating an attractive and responsive UI to deliver an engaging user experience. By utilizing CSS, we have customized various elements of the website to enhance its visual appeal. We have incorporated captivating images to showcase the sports cars available for rent. Navigation between different sections of the website is facilitated through the use of segments, ensuring seamless transitions. To provide convenience, we have integrated Google Maps, allowing users to locate our offline store. Additionally, we have implemented a direct link to WhatsApp, enabling users to initiate a conversation for easy booking inquiries.
 
